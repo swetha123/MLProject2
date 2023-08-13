@@ -1,1 +1,1 @@
-this is a end to end machine learning project on advance house prediction
+this is a end to end machine learning project on diamond price prediction
